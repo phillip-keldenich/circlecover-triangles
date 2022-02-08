@@ -1,0 +1,5 @@
+**/.auxiliary-latex
+**/.idea
+**/.DS_Store
+**/.ipynb_checkpoints
+**/cmake-build-*
